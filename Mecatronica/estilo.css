@@ -1,0 +1,63 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+
+form{
+    background-color: darkgoldenrod;
+}
+
+input[type=text]{
+    width: 10%;
+    height: 20%;
+    padding: 2px 12px;
+    border: 3px solid #443cbc;
+    border-radius: 6px;
+}
+
+input[type=tel]{
+    width: 10%;
+    height: 20%;
+    padding: 2px 12px;
+    border: 3px solid #443cbc;
+    border-radius: 6px;
+}
+
+input[type=email]{
+    width: 10%;
+    height: 20%;
+    padding: 2px 12px;
+    border: 3px solid #443cbc;
+    border-radius: 6px;
+}
+
+input[type=date]{
+    width: 10%;
+    height: 20%;
+    padding: 2px 12px;
+    border: 3px solid #443cbc;
+    border-radius: 6px;
+}
+
+select{
+    width: 10%;
+    height: 20%;
+    padding: 2px 12px;
+    border: 3px solid #443cbc;
+    border-radius: 6px;
+}
+
+button{
+    width: 20%;
+     padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid rgb(58, 23, 216);
+  border-radius: 4px;
+  background-color: #443cbc;
+  color: white;
+}
+
+p{
+    color: blue;
+}
